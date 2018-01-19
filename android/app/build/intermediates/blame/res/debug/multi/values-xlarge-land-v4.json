@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Project\\React Native\\Mob306-MultiOS\\Mob306_Lab_PS05854\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "/home/rs/Project/MOB306/Mob306_LabALL_PS05854/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "F:\\Project\\React Native\\Mob306-MultiOS\\Mob306_Lab_PS05854\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "/home/rs/Project/MOB306/Mob306_LabALL_PS05854/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/rs/Project/MOB306/Mob306_LabALL_PS05854/android/F:\\Project\\React Native\\Mob306-MultiOS\\Mob306_Lab_PS05854\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/rs/Project/MOB306/Mob306_LabALL_PS05854/android/F:\\Project\\React Native\\Mob306-MultiOS\\Mob306_Lab_PS05854\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
